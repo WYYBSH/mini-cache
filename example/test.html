@@ -7,8 +7,15 @@
     <title>Document</title>
 </head>
 <body>
-    <p>mini-cache test</p>
+    <p>example</p>
 
 </body>
 <script src="../release/bundle.js"></script>
+<script>
+    var FC = window.FastCache;
+    var cache = new FC();
+    cache.set('a',100);
+    // alert(cache.get('a'));
+    alert('hello')
+</script>
 </html>

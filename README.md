@@ -7,7 +7,8 @@ A mini and fine front-end caching tool to prevent memory "side leakage"
 
 ## 快速使用
 
- 简单接入的文档
+ - [使用文档](./doc/use/README.md)
+ - [二次开发文档](./doc/dev/README.md)
 
 - 使用文档
 - 二次开发文档
