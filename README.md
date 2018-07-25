@@ -5,6 +5,10 @@ A mini and fine front-end caching tool to prevent memory "side leakage"
 
 ## 安装下载
 
+- 下载地址 https://github.com/WYYBSH/mini-cache/releases
+- `npm i mini-cache-npm`
+- CDN http://unpkg.com/mini-cache-npm/release/bundle.js
+
 ## 快速使用
 
  - [使用文档](./doc/use/README.md)
